@@ -136,6 +136,17 @@ despues de haber ejecutado todos esos codigos nuestra pagina web se ve de esta m
 
 <a href="https://ibb.co/1sX832m"><img src="https://i.ibb.co/6vtg2sW/aa17.jpg" alt="aa17" border="0"></a>
 
+***Codigo***
+
+<a href="https://ibb.co/KjNYJkQ"><img src="https://i.ibb.co/GvsXqL1/aa18.jpg" alt="aa18" border="0"></a>
+
+<a href="https://ibb.co/BBhfWD5"><img src="https://i.ibb.co/tD0HjfT/aa19.jpg" alt="aa19" border="0"></a>
+
+<a href="https://ibb.co/3rf0jWq"><img src="https://i.ibb.co/M28Rtp4/aa20.jpg" alt="aa20" border="0"></a>
+
+<a href="https://ibb.co/YQ76MsD"><img src="https://i.ibb.co/8sDJpZz/aa21.jpg" alt="aa21" border="0"></a>
+
+
 [![License][license]][license-file]
 [![Downloads][downloads]][releases]
 [![Last Commit][last-commit]][releases]
