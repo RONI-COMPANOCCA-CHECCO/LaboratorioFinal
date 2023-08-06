@@ -56,7 +56,7 @@
 
 empezamos el proyecto creando nuestra carpeta, creando un entorno virtual asi como lo aprendimos en los laboratorios anteriores. instalamos django y comensamos con este hermoso proyecto.
 
-<a href="https://i.ibb.co/vkDnyPt/Whats-App-Image-2023-08-05-at-11-34-48.jpg" alt="Whats-App-Image-2023-08-05-at-11-34-48" border="0"></a>
+<a href="https://ibb.co/7KbmMW9"><img src="https://i.ibb.co/vkDnyPt/Whats-App-Image-2023-08-05-at-11-34-48.jpg" alt="Whats-App-Image-2023-08-05-at-11-34-48" border="0"></a>
 
 # 2.- COMENZAMOS A CONFIGURAR NUESTRA CARPETAS PROYECTO Y APLICACION 
 
