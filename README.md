@@ -40,6 +40,7 @@
 <tr><td colspan="6">ALUMNO:
 <ul>
 <li>Roni Companocca Checco</li>
+<li>Giovani Angel Mendoza Contreras</li>
 </ul>
 </td>
 </<tr>

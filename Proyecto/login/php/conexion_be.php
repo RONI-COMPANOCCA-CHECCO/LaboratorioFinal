@@ -1,4 +1,5 @@
 <?php
+
     $conexion = mysqli_connect("localhost","root", "", "login_register_db");
 
     /*
@@ -8,4 +9,5 @@
         echo 'No se ha podido conectar a la Base de datos';
     }
     */
+    
 ?>
